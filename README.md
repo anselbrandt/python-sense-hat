@@ -16,6 +16,8 @@ sense = SenseHat()
 [astro-pi/python-sense-hat github issue #121](https://github.com/astro-pi/python-sense-hat/issues/121#issuecomment-1179164651)
 
 
+12 data points + cpu temp = 13
+
 ```
 temp 27.8846435546875
 pressure 0
